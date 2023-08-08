@@ -5,6 +5,8 @@ The OmniVerseCLI repository is a command-line interface tool designed to enhance
 
 OmniVerseCLI employs the Maven build system to efficiently compile, test, and package the project. By utilizing Maven, developers benefit from standardized project management, dependency resolution, and a straightforward build lifecycle. 
 
+- You'll need Java 17 in order to build and run the package.
+
 - You can build it just by running `./mvnw package` in the project root folder, the target file will be generated at `/target/` folder.
 
 - You can always just use the most recent released version instead of building it. [Download it here](https://github.com/lucasapchagas/OmniverseCLI/releases/tag/release)
